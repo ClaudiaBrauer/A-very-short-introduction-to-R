@@ -9,7 +9,7 @@ The base document, with 10 pages of background and exercises and 2 pages listing
 Working through this document takes 1 to 4 hours (depending on your background).
 This document can also be downloaded from the R website (as contributed document): https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf
 
-[**2. Practising R using swirl**](documents/Practising R using swirl.pdf)
+[**2. Practising R using swirl**](documents/Using swirl to practise R.pdf)
 
 The next step after the (very) short introduction. This short manual points you to some nice classes (created by others).
 
