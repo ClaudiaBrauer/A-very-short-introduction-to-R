@@ -16,7 +16,7 @@ The next step after the (very) short introduction. This short manual points you 
 
 [**3. Portable versions of R and RStudio**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Portable%20versions%20of%20R%20and%20RStudio.pdf)
 
-In case you want to take R everywhere you go (you may want to install the programs on a USB stick in case of administrator rights issues).
+In case you want to take R everywhere you go (you may want to install the programs on a USB stick in case of administrator rights issues).<br>
 
 
 ![Wageningen University](documents/logo_WUR_small.png)
