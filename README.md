@@ -19,7 +19,7 @@ The next step after the (very) short introduction. This short manual points you 
 In case you want to take R everywhere you go (you may want to install the programs on a USB stick in case of administrator rights issues).
 
 
-![Wageningen University](documents/logo_WU.png)
+![Wageningen University](documents/logo_WUR_small.png)
 
 [*Hydrology and Quantitative Water Management Group*](http://www.hwm.wur.nl)
 
