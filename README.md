@@ -15,7 +15,7 @@ Instead of reading the pdf and doing the ToDo exercises, you can also go through
 
 Download the file with the swirl course [here](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A_(very)_short_introduction_to_R.swc).
 
-The swirl version of A (very) short introduction to R is brand new, so it is possible that it still contains errors. If you find any, let me know on the issues page. 
+The swirl version of the (very) short introduction to R is brand new, so it is possible that it still contains errors. If you find any, let me know on the issues page. 
 
 
 [**3. Portable versions of R and RStudio**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Portable_versions_of_R_and_RStudio.pdf)
