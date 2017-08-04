@@ -13,7 +13,10 @@ An older version of this document can also be downloaded from the R website (as 
 
 UNDER CONSTRUCTION - WILL BE FINISHED AROUND 10 AUGUST 2017
 
-Instead of reading the pdf and doing the ToDo exercises, you can also go through the text and exercises in an interactive environment called swirl (by swirlstats.com). This short manual gets you started with the (very) short introduction to R. It also points you to some nice follow-up classes created by others. 
+Instead of reading the pdf and doing the ToDo exercises, you can also go through the text and exercises in an interactive environment called swirl (developed by swirlstats.com). This short manual gets you started with the (very) short introduction to R. It also points you to some nice follow-up classes created by others. 
+
+Download the file with the swirl course [here](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A_(very)_short_introduction_to_R.swc)
+
 
 [**3. Portable versions of R and RStudio**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Portable_versions_of_R_and_RStudio.pdf)
 
