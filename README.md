@@ -9,7 +9,7 @@ The base document, with 10 pages of background and exercises and 2 pages listing
 Working through this document takes 1 to 4 hours (depending on your background).
 An older version of this document can also be downloaded from the R website (as contributed document): https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf
 
-[**2. Practising R using swirl**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Doing%20A%20(very)%20short%20introduction%20to%20R%20in%20swirl.pdf)
+[**2. Doing "A (very) short introduction to R" in the interactive swirl environment**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Doing%20A%20(very)%20short%20introduction%20to%20R%20in%20swirl.pdf)
 
 UNDER CONSTRUCTION - WILL BE FINISHED AROUND 10 AUGUST 2017
 
