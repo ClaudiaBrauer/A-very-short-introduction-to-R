@@ -6,7 +6,7 @@ Here you'll find three documents that my colleague Paul Torfs and I wrote about 
 [**1. A (very) short introduction to R**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf)
 
 The base document, with 10 pages of background and exercises and 2 pages listing useful functions (to use as a reference).
-Working through this document takes 1 to 4 hours (depending on your background).
+Working through this document takes 1 to 2 hours (depending on your background).
 An older version of this document can also be downloaded from the R website (as contributed document): https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf
 
 [**2. Doing "A (very) short introduction to R" in the interactive swirl environment**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Doing%20A%20(very)%20short%20introduction%20to%20R%20in%20swirl.pdf)
