@@ -13,7 +13,7 @@ An older version of this document can also be downloaded from the R website (as 
 
 Instead of reading the pdf and doing the ToDo exercises, you can also go through the text and exercises in an interactive environment called swirl (developed by swirlstats.com). This short manual gets you started with the (very) short introduction to R. It also points you to some nice follow-up classes created by others. 
 
-Download the file with the swirl course [here](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A_(very)_short_introduction_to_R.swc).
+Download the swc file with the swirl course [here](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A_(very)_short_introduction_to_R.swc).
 
 The swirl version of the (very) short introduction to R is brand new, so it is possible that it still contains errors. If you find any, let me know on the issues page. 
 
