@@ -11,7 +11,7 @@ An older version of this document can also be downloaded from the R website (as 
 
 [**2. Practising R using swirl**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Doing%20A%20(very)%20short%20introduction%20to%20R%20in%20swirl.pdf)
 
-UNDER CONSTRUCTION - FINISHED AROUND HALF AUGUST 2017
+UNDER CONSTRUCTION - WILL BE FINISHED AROUND 10 AUGUST 2017
 
 Instead of reading the pdf and doing the ToDo exercises, you can also go through the text and exercises in an interactive environment called swirl (by swirlstats.com). This short manual gets you started with the (very) short introduction to R. It also points you to some nice follow-up classes created by others. 
 
