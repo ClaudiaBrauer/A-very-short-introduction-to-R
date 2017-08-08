@@ -17,7 +17,7 @@ Instead of reading the pdf and doing the ToDo exercises, you can also go through
 
 This swirl course is brand new, so it may still contain errors. If you find any, let me know on the issues page. 
 
-[**2. Writing your own R scripts**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Writing%your%own%R%scripts.pdf)
+[**3. Writing your own R scripts**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Writing_your_own_R_scripts.pdf)
 
 After learning the basics, you have to gain experience in constructing R scripts. In this document you learn to set up a script step by step. The examples are from hydrology, but the exercises are useful for everyone. If you want to do these exercises, send me an email and I will send you the data. 
 
