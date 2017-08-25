@@ -8,4 +8,4 @@ In this module, you will practice several R commands using the swirl lessons bel
 - 6 Subsetting vectors
 - 7 Matrices and data frames
 
-Section 3 in [this document](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Doing%20A%20(very)%20short%20introduction%20to%20R%20in%20swirl.pdf) explains how to access the swirl-course "R Programming".
+Section 3 in [this document](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Doing%20A%20(very)%20short%20introduction%20to%20R%20in%20swirl.pdf) explains how to access the swirl-course *R Programming*.
