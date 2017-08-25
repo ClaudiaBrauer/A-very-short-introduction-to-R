@@ -1,0 +1,1 @@
+In this module, you will practice several R commands using the swirl lessons belonging to the course "R Programming". For this module, do swirl-lessons 1 (Basic building blocks), 3 (Sequences of numbers), 5 (Missing values), 6 (Subsetting vectors) and 7 (Matrices and data frames). Section 3 in the document below explains how to access the swirl-course "R Programming".
