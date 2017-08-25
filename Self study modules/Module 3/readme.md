@@ -2,7 +2,7 @@ Module 3: R Programming MOOC second part
 ---
 
 In this module, you will practice several R commands using some more swirl lessons belonging to the MOOC [R Programming](www.coursera.org/learn/r-programming). For this module, do swirl-lessons 
-- 9 Functions
+- [9] Functions
 - 12 Looking at data
 - 14 Dates and times
 - 15 Base graphs
