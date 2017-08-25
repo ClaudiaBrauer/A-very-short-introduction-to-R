@@ -1,0 +1,1 @@
+In this module, you will practice several R commands using some more swirl lessons belonging to the course "R Programming". For this module, do swirl-lessons 9 (Functions), 12 (Looking at data), 14 (Dates and times) and 15 (Base graphs). Section 3 in the document below explains how to access the swirl-course "R Programming".
