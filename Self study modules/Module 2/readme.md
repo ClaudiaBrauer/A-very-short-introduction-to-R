@@ -1,7 +1,7 @@
 Module 2: R Programming MOOC first part
 ---
 
-In this module, you will practice several R commands using the swirl lessons belonging to the course [R Programming](www.coursera.org/learn/r-programming). For this module, do the following swirl-lessons: 
+In this module, you will practice several R commands using the swirl lessons belonging to the course [R Programming](www.coursera.org/learn/r-programming) (the credits go to the developers of that course). For this module, do the following swirl-lessons: 
 - 1 Basic building blocks
 - 3 Sequences of numbers
 - 5 Missing values
