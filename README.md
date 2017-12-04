@@ -25,6 +25,24 @@ After learning the basics, you have to gain experience in building R scripts. In
 
 In case you want to take R everywhere you go (you may want to install the programs on a USB stick in case of administrator rights issues).
 
+&nbsp;
+
+Self study modules
+------
+
+To learn R step by step, I made 8 self study modules of 1-3 hours (depending on your background): 
+1. A (very) short introduction to R
+2. R Programming MOOC first part 
+3. R Programming MOOC second part
+4. Basic plotting
+5. Pretty plotting
+6. Reading data files
+7. Matrix operations
+8. Spatial data
+
+Modules 2 and 3 are swirl lessons belonging to the course [R Programming](www.coursera.org/learn/r-programming). Modules 4-8 are script writing assignments.
+More information can be found in the folder called **Self study modules**.
+
 
 &nbsp;
 
