@@ -30,7 +30,7 @@ In case you want to take R everywhere you go (you may want to install the progra
 Self study modules
 ------
 
-To learn R step by step, I made 8 self study modules of 1-3 hours (depending on your background): 
+To learn R step by step, we made 8 self study modules of 1-3 hours (depending on your background): 
 1. A (very) short introduction to R
 2. R Programming MOOC first part 
 3. R Programming MOOC second part
