@@ -15,11 +15,11 @@ Instead of reading the pdf and doing the ToDo exercises, you can also go through
 
 <!--Download the swc file with the swirl course [here](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A_(very)_short_introduction_to_R.swc).-->
 
-This swirl course is brand new, so it may still contain errors. If you find any, let me know on the issues page. 
+This swirl course is relatively new, so it may still contain errors. If you find any, let me know on the issues page. 
 
 [**3. Writing your own R scripts**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Writing_your_own_R_scripts.pdf)
 
-After learning the basics, you have to gain experience in building R scripts. In this document you learn to set up a script step by step. The examples are from hydrology, but the exercises are useful for everyone. If you want to do these exercises, drop me an email and I will send you the data. 
+After learning the basics, you have to gain experience in building R scripts. In this document you learn to set up a script step by step. The examples are from hydrology, but the exercises are useful for everyone. 
 
 [**4. Portable versions of R and RStudio**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Portable_versions_of_R_and_RStudio.pdf)
 
