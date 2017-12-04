@@ -11,5 +11,5 @@ To learn R step by step, we made 8 self study modules of 1-3 hours (depending on
 7. Matrix operations
 8. Spatial data
 
-Modules 2 and 3 are swirl lessons belonging to the course [R Programming](www.coursera.org/learn/r-programming). Modules 4-8 are script writing assignments.
+Modules 2 and 3 are swirl lessons belonging to the course [R Programming](www.coursera.org/learn/r-programming) (the credits go to the developers of that course). Modules 4-8 are script writing assignments.
 More information can be found in the folders belonging to each module.
