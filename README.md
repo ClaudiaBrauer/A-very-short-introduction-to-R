@@ -41,7 +41,8 @@ To learn R step by step, we made 8 self study modules of 1-3 hours (depending on
 8. Spatial data
 
 Modules 2 and 3 are swirl lessons belonging to the course [R Programming](www.coursera.org/learn/r-programming) (the credits go to the developers of that course). Modules 4-8 are script writing assignments.
-More information can be found in the folder called **Self study modules**.
+More information can be found in the folder called [Self study modules](whttps://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/tree/master/Self%20study%20modules).
+
 
 
 &nbsp;
