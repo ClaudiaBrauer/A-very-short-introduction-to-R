@@ -13,3 +13,5 @@ To learn R step by step, we made 8 self study modules of 1-3 hours (depending on
 
 Modules 2 and 3 are swirl lessons belonging to the course [R Programming](www.coursera.org/learn/r-programming) (the credits go to the developers of that course). Modules 4-8 are script writing assignments.
 More information can be found in the folders belonging to each module.
+
+(x)(https://meetingorganizer.copernicus.org/EGU2018/EGU2018-18046.pdf)
