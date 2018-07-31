@@ -27,7 +27,7 @@ In case you want to take R everywhere you go (you may want to install the progra
 
 [**5. Examples of R scripts for hydrology**](https://github.com/soil-water-atmosphere/notebooks/tree/master/R_for_hydrology)
 
-Here we collect scripts with some basic and more complex commands which you can adapt for your own application.
+Here we collect scripts for hydrological data analysis, which you can adapt for your own application.
 
 &nbsp;
 
