@@ -25,6 +25,10 @@ After learning the basics, you have to gain experience in building R scripts. In
 
 In case you want to take R everywhere you go (you may want to install the programs on a USB stick in case of administrator rights issues).
 
+[**5. Examples of R scripts for hydrology**](https://github.com/soil-water-atmosphere/notebooks)
+
+Here we collect scripts with some basic and more complex commands which you can adapt for your own application.
+
 &nbsp;
 
 Self study modules
