@@ -5,7 +5,7 @@ In this module, you will build your first complete script from scratch.
 
 &nbsp;
 
-### Introduction
+***Introduction***
 
 With the exercises in the next modules you learn how to set up an R script from scratch. The exercises explain step by step how to build your script. The scripts in these exercises always follow the same structure with the following sections:
 
@@ -30,7 +30,7 @@ Before you start, some programming tips:
 
 &nbsp;
 
-### Compare rainfall measurements
+***Compare rainfall measurements***
 
 The aim of this exercise is to reproduce the figure below. You will build it in steps. Don't forget to run (part of) the code every time you add something, to check if everything is still error-free.
 
