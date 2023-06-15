@@ -1,4 +1,0 @@
-Module 1: A (very) short introduction to R
----
-
-In this module you will work through our famous tutorial called [A (very) short introduction to R](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf). This tutorial contains explanations, examples and exercises. Instead of reading the pdf and doing the exercises, you can also go through the text and exercises in an interactive environment called swirl. [This document](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Doing%20A%20(very)%20short%20introduction%20to%20R%20in%20swirl.pdf) explains how to access the swirl version of "A (very) short introduction to R''. The contents are the same (with a few exceptions), so you can open the pdf version alongside to look up how to do something you learned before or browse through the references on the last two pages.
