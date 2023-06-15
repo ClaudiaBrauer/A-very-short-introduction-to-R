@@ -24,4 +24,4 @@ In this assignment you will reproduce the figure below, which shows the range of
 
 
 ![fig](fig_module_7.png)
-*Simulated discharge with different parameter sets. Figure source: C.C. Brauer, P.J.J.F. Torfs, A.J. Teuling, R. Uijlenhoet (2014b): The Wageningen Lowland Runoff Simulator (WALRUS): application to the Hupsel Brook catchment and Cabauw polder, Hydrol.  Earth Syst. Sci., 18, 4007-4028, www.hydrol-earth-syst-sci.net/18/4007/2014/hess-18-4007-2014.pdf*
+<sub><sup>*Simulated discharge with different parameter sets. Figure source: C.C. Brauer, P.J.J.F. Torfs, A.J. Teuling, R. Uijlenhoet (2014b): The Wageningen Lowland Runoff Simulator (WALRUS): application to the Hupsel Brook catchment and Cabauw polder, Hydrol.  Earth Syst. Sci., 18, 4007-4028, www.hydrol-earth-syst-sci.net/18/4007/2014/hess-18-4007-2014.pdf*</sup></sub> 
