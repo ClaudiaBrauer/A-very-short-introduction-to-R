@@ -70,6 +70,6 @@ The aim of this exercise is to reproduce the figure below. You will build it in 
     4. It is not necessary (and a bit messy) to show all digits. Round `a`, `b` and `r2` to 2 decimals. Google *R round numbers* to find out which function to use. Add this function to the commands under `Processing`.
 11. Add commands to write the figure to pdf with width 4 and height 4 (inches). You need to add a command to open the pdf (starting with `pdf`, see the example in the figure above) before the plotting commands, and a command to close the pdf afterwards (`graphics.off()`). 
 
-![Comparing rainfall measured with a radar to rainfall measured with a rain gauge. \scriptsize{Figure source: C.C. Brauer, A. Overeem, H. Leijnse, R. Uijlenhoet (2016): The effect of differences between rainfall measurement techniques on groundwater and discharge simulations in a lowland catchment, Hydrol. Process., 30, 3885--3900, onlinelibrary.wiley.com/doi/10.1002/hyp.10898/epdf.}](fig_module_4.png)
-
+![fig](fig_module_4.png)
+<sub><sup>*Comparing rainfall measured with a radar to rainfall measured with a rain gauge. Figure source: C.C. Brauer, A. Overeem, H. Leijnse, R. Uijlenhoet (2016): The effect of differences between rainfall measurement techniques on groundwater and discharge simulations in a lowland catchment, Hydrol. Process., 30, 3885--3900, onlinelibrary.wiley.com/doi/10.1002/hyp.10898/epdf.*</sup></sub>
 
