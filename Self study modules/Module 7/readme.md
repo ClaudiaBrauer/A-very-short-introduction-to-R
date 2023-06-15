@@ -23,4 +23,5 @@ In this assignment you will reproduce the figure below, which shows the range of
 12. Add code above and below the figure to save it as pdf.
 
 
-![Simulated discharge with different parameter sets. *Figure source: C.C. Brauer, P.J.J.F. Torfs, A.J. Teuling, R. Uijlenhoet (2014b): The Wageningen Lowland Runoff Simulator (WALRUS): application to the Hupsel Brook catchment and Cabauw polder, Hydrol.  Earth Syst. Sci., 18, 4007-4028, www.hydrol-earth-syst-sci.net/18/4007/2014/hess-18-4007-2014.pdf*](fig_module_7.png)
+![fig](fig_module_7.png)
+*Simulated discharge with different parameter sets. Figure source: C.C. Brauer, P.J.J.F. Torfs, A.J. Teuling, R. Uijlenhoet (2014b): The Wageningen Lowland Runoff Simulator (WALRUS): application to the Hupsel Brook catchment and Cabauw polder, Hydrol.  Earth Syst. Sci., 18, 4007-4028, www.hydrol-earth-syst-sci.net/18/4007/2014/hess-18-4007-2014.pdf*
