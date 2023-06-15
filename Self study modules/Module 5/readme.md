@@ -1,4 +1,5 @@
-Module 4: Pretty plotting
+Module 5: Pretty plotting
+-------
 
 ***Flow duration curve***
 
