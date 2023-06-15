@@ -31,5 +31,5 @@ In this assignment you will read data from a data file, process and plot them as
 22. Above the figure, add a line with general plotting parameters for margins, tick marks, etc. Also include an argument to make the firgure square.
 23. Add commands to write the figure to a pdf of 4.4x4.4 inch, with Times font. Don't forget the command to close the pdf after the figure. 
 
-![Time series of groundwater depth. *Figure taken from computer practical in the course ``Field Research Water and Atmosphere'', Wageningen University.*](fig_module_6.png)
-
+![fig](fig_module_6.png)
+<sub><sup>*Time series of groundwater depth. Figure taken from computer practical in the course ``Field Research Water and Atmosphere'', Wageningen University.*</sup></sub> 
