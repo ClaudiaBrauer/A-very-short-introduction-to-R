@@ -1,7 +1,7 @@
 A (very) short introduction to R
 ------
 
-Here you'll find three documents that my colleague Paul Torfs and I wrote about learning R:
+Here you'll find some documents that my colleague Paul Torfs and I wrote about learning R:
 
 [**1. A (very) short introduction to R**](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf)
 
