@@ -32,7 +32,7 @@ Before you start, some programming tips:
 
 ### Basic plotting
 
-*Compare rainfall measurements*
+***Compare rainfall measurements***
 
 The aim of this exercise is to reproduce the figure below. You will build it in steps. Don't forget to run (part of) the code every time you add something, to check if everything is still error-free.
 
