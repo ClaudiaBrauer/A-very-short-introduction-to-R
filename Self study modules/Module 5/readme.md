@@ -1,4 +1,4 @@
-**Pretty plotting**
+### Pretty plotting
 
 *Flow duration curve*
 
