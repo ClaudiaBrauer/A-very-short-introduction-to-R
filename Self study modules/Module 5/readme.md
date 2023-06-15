@@ -38,4 +38,5 @@ comments to clarify the difference.
 24. Add commands to write the figure to pdf with width 8.8 and height 3.6. Add argument `family=``Times''` to change the font. Add the command to close the pdf after the figure. 
 
 
- ![Return period and exceedance probabilities of discharge for four catchments. *Figure taken from lecture notes of the course ``Water 2'', Wageningen University.*](fig_module_5.png)
+![fig](fig_module_5.png)
+<sub><sup>*Return period and exceedance probabilities of discharge for four catchments. Figure taken from lecture notes of the course ``Water 2'', Wageningen University.*</sup></sub>
