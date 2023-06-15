@@ -1,6 +1,6 @@
 ### Pretty plotting
 
-*Flow duration curve*
+***Flow duration curve***
 
 The aim of this exercise is to reproduce the figure below. You will build it in steps: starting with one figure (right panel), for one river (Rhine), with one $x$ axis (bottom).
 
