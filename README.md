@@ -52,7 +52,7 @@ We also [presented](documents/presentation_R_modules_EGU2018.pdf) these self-stu
 
 ![Wageningen University](documents/logo_WUR_small.png)
 
-[*Hydrology and Quantitative Water Management Group*](http://www.hwm.wur.nl)
+[*Hydrology and Environmental Hydraulics Group*](http://www.hwm.wur.nl)
 
 
 
